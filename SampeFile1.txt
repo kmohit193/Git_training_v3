@@ -1,2 +1,4 @@
 This is the sample text inside the smapleFile1
 Chaged to see the diff 1
+This is changes related to stach in file1
+This is changes related to stach in file1
